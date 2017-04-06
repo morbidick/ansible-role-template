@@ -6,6 +6,8 @@ This is a template for ansible roles
 
 ## Requirements
 
+None.
+
 ## Example playbook
 
 ```` yaml
